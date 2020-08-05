@@ -8,6 +8,7 @@ namespace AW.Data.Domain
 {
    public class Entity<T> : IEntity<T> where T : IComparable
     {
+
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public T Id { get; set; }
