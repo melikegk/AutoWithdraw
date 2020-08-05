@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AW.API", "AW.API\AW.API.csproj", "{89655185-8543-4DC3-8FD1-A0A70F8FAC83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AW.Business", "AW.Business\AW.Business.csproj", "{236FE97B-8364-4902-902E-C6D77DBD959C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AW.Data", "AW.Data\AW.Data.csproj", "{10610C0D-5559-40EB-A1F0-FB35E89D7209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89655185-8543-4DC3-8FD1-A0A70F8FAC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89655185-8543-4DC3-8FD1-A0A70F8FAC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89655185-8543-4DC3-8FD1-A0A70F8FAC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89655185-8543-4DC3-8FD1-A0A70F8FAC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236FE97B-8364-4902-902E-C6D77DBD959C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236FE97B-8364-4902-902E-C6D77DBD959C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236FE97B-8364-4902-902E-C6D77DBD959C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236FE97B-8364-4902-902E-C6D77DBD959C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10610C0D-5559-40EB-A1F0-FB35E89D7209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10610C0D-5559-40EB-A1F0-FB35E89D7209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10610C0D-5559-40EB-A1F0-FB35E89D7209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10610C0D-5559-40EB-A1F0-FB35E89D7209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA6E33A6-515B-4EA8-A431-184620DBA642}
+	EndGlobalSection
+EndGlobal
